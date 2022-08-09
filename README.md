@@ -1,4 +1,4 @@
-#  [Lista de Produtos](https://vanagila.github.io/lista-produtos-vanagila/)
+# <a href = "https://vanagila.github.io/lista-produtos-vanagila" target="_blank">Lista de Produtos</a>
 
 ## Tecnologias usadas:
 JS, HTML, CSS (DOM)
